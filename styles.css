@@ -4,9 +4,9 @@ table, thead, tbody, th,td{
 	border-radius:5px;
 	padding:0.5rem;
 }
-tr:nth-child(even){
+tr:nth-child(even) td{
 	background-color:#ffffff;
 }
-tr:nth-child(odd){
+tr:nth-child(odd) td{
 	background-color:#f2f2f2;
 }
