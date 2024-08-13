@@ -3,5 +3,9 @@
 	border-radius: 5px;
 	padding: 8px;
 }
-tr:nth-child(odd){background-color:#f2f2f2;}
-tr:nth-child(even){background-color:#ffffff;}
+tr:nth-child(odd){background-color: #f2f2f2;}
+tr:nth-child(even){background-color: #ffffff;}
+
+td, th {
+	padding: 5px;
+}
